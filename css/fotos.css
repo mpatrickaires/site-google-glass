@@ -43,26 +43,26 @@ ul#album-fotos li:hover {
 }
 
 ul#album-fotos li#foto01 {
-    background-image: url("../_imagens/galeria-01.jpg");
+    background-image: url("../imagens/galeria-01.jpg");
 
 }
 
 ul#album-fotos li#foto02 {
-    background-image: url("../_imagens/galeria-02.jpg");
+    background-image: url("../imagens/galeria-02.jpg");
 }
 
 ul#album-fotos li#foto03 {
-    background-image: url("../_imagens/galeria-03.jpg");
+    background-image: url("../imagens/galeria-03.jpg");
 }
 
 ul#album-fotos li#foto04 {
-    background-image: url("../_imagens/galeria-04.jpg");
+    background-image: url("../imagens/galeria-04.jpg");
 }
 
 ul#album-fotos li#foto05 {
-    background-image: url("../_imagens/galeria-05.jpg");
+    background-image: url("../imagens/galeria-05.jpg");
 }
 
 ul#album-fotos li#foto06 {
-    background-image: url("../_imagens/galeria-06.jpg");
+    background-image: url("../imagens/galeria-06.jpg");
 }
